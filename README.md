@@ -1,0 +1,1 @@
+show some tips to slow your iPhone as  shit
