@@ -1,0 +1,555 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0FE791BEA36BBA3543F4B782303E437C /* Pods-MoreLoad-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 167D6216BFE78F4F84A747F38A981286 /* Pods-MoreLoad-dummy.m */; };
+		117C8E55284101BFD64DC986046D80BF /* PencilCool_1.m in Sources */ = {isa = PBXBuildFile; fileRef = AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		11A148DEBA2457CAAD4D9F1407A2E6FD /* PencilCool_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		1709BBAA11BDC65A7C8468A7D48AB57A /* PencilCool_4.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		28E916D6F843A0135F541E677D414B7F /* PencilCool_0.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2AAF4F8C1269652DA119960D4A507870 /* PencilCool_3.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		61D42D9F06E9198A65CDCE89E4113F06 /* PencilCool_1.h in Headers */ = {isa = PBXBuildFile; fileRef = 17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		78AE21ED459BAB474F84C27756064DFC /* PencilCool_5.h in Headers */ = {isa = PBXBuildFile; fileRef = F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		7E731F78601274D68FD4EE704E8DC555 /* PencilCool_3.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		825F6B4643FF2CE892F4064D2400F9B0 /* PencilCool_4.m in Sources */ = {isa = PBXBuildFile; fileRef = 9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		9038F0AA3FC891BF3E913694EC23D2B3 /* PencilCool_0.h in Headers */ = {isa = PBXBuildFile; fileRef = 8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		97B27917582C125E1836AD7209D48B2E /* PencilCool_2.h in Headers */ = {isa = PBXBuildFile; fileRef = 866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C1CB11FE391673FD1AC5929545ECADEE /* PencilCool_5.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		DB8E6092F8DB8C44AC4B10B1276505AC /* AlotClass-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		619D2ADA591666BF3AC77EA475BCDB1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 49B172E57972307450B4A213337F9C23;
+			remoteInfo = AlotClass;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_4.h; path = Classes/PencilCool_4.h; sourceTree = "<group>"; };
+		167D6216BFE78F4F84A747F38A981286 /* Pods-MoreLoad-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MoreLoad-dummy.m"; sourceTree = "<group>"; };
+		17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_1.h; path = Classes/PencilCool_1.h; sourceTree = "<group>"; };
+		2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_5.m; path = Classes/PencilCool_5.m; sourceTree = "<group>"; };
+		33F65B5CE2438CE0D85F3905A365DAAE /* Pods-MoreLoad-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MoreLoad-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_3.m; path = Classes/PencilCool_3.m; sourceTree = "<group>"; };
+		534B266B7007C3446C8795150724F2E5 /* AlotClass-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AlotClass-prefix.pch"; sourceTree = "<group>"; };
+		5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.release.xcconfig; sourceTree = "<group>"; };
+		631E8C6CA53C0C4AB1AE13B2A5A792BE /* libAlotClass.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libAlotClass.a; path = libAlotClass.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		69CD99C84D3871F92E9151B7102825BE /* Pods-MoreLoad-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MoreLoad-acknowledgements.plist"; sourceTree = "<group>"; };
+		8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_2.m; path = Classes/PencilCool_2.m; sourceTree = "<group>"; };
+		866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_2.h; path = Classes/PencilCool_2.h; sourceTree = "<group>"; };
+		8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_0.h; path = Classes/PencilCool_0.h; sourceTree = "<group>"; };
+		9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_4.m; path = Classes/PencilCool_4.m; sourceTree = "<group>"; };
+		9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_0.m; path = Classes/PencilCool_0.m; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FD84798DDEC99FCDFD9097819D6D656 /* libPods-MoreLoad.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MoreLoad.a"; path = "libPods-MoreLoad.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_3.h; path = Classes/PencilCool_3.h; sourceTree = "<group>"; };
+		AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_1.m; path = Classes/PencilCool_1.m; sourceTree = "<group>"; };
+		B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.debug.xcconfig; sourceTree = "<group>"; };
+		E25DAD79B67E9A7457CDB631D49C8CBF /* AlotClass.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = AlotClass.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AlotClass-dummy.m"; sourceTree = "<group>"; };
+		EADACAF62EE5EF89B42F6D37F017360B /* Pods-MoreLoad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MoreLoad.debug.xcconfig"; sourceTree = "<group>"; };
+		F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_5.h; path = Classes/PencilCool_5.h; sourceTree = "<group>"; };
+		FADDF957495A2665F9F884D37967F315 /* Pods-MoreLoad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MoreLoad.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D49A7213E5A448D7702077E8897EC199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBFD9D5BCE2FC9EA5F3FA81843A0A805 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00AE17534239070AD1A84B244B5CD4BD /* Pods-MoreLoad */ = {
+			isa = PBXGroup;
+			children = (
+				33F65B5CE2438CE0D85F3905A365DAAE /* Pods-MoreLoad-acknowledgements.markdown */,
+				69CD99C84D3871F92E9151B7102825BE /* Pods-MoreLoad-acknowledgements.plist */,
+				167D6216BFE78F4F84A747F38A981286 /* Pods-MoreLoad-dummy.m */,
+				EADACAF62EE5EF89B42F6D37F017360B /* Pods-MoreLoad.debug.xcconfig */,
+				FADDF957495A2665F9F884D37967F315 /* Pods-MoreLoad.release.xcconfig */,
+			);
+			name = "Pods-MoreLoad";
+			path = "Target Support Files/Pods-MoreLoad";
+			sourceTree = "<group>";
+		};
+		099C459671FC8D3FAAB625B15CD1882E /* AlotClass */ = {
+			isa = PBXGroup;
+			children = (
+				8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */,
+				9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */,
+				17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */,
+				AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */,
+				866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */,
+				8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */,
+				AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */,
+				4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */,
+				0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */,
+				9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */,
+				F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */,
+				2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */,
+				CFF9A62100EEE8A114D0D46E6051C962 /* Pod */,
+				A3416ECD478EBD6EFFFDCA283C5C2031 /* Support Files */,
+			);
+			name = AlotClass;
+			path = ../AlotClass;
+			sourceTree = "<group>";
+		};
+		1692180E3136756DECCE7B62DA8F8765 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				00AE17534239070AD1A84B244B5CD4BD /* Pods-MoreLoad */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		A3416ECD478EBD6EFFFDCA283C5C2031 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */,
+				534B266B7007C3446C8795150724F2E5 /* AlotClass-prefix.pch */,
+				B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */,
+				5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Pods/Target Support Files/AlotClass";
+			sourceTree = "<group>";
+		};
+		B0A7983B185433BBEB02EC9FEF7994C7 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				099C459671FC8D3FAAB625B15CD1882E /* AlotClass */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		C09D00E0E92FE323866E6A2AA2B5FF05 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				631E8C6CA53C0C4AB1AE13B2A5A792BE /* libAlotClass.a */,
+				9FD84798DDEC99FCDFD9097819D6D656 /* libPods-MoreLoad.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				B0A7983B185433BBEB02EC9FEF7994C7 /* Development Pods */,
+				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
+				C09D00E0E92FE323866E6A2AA2B5FF05 /* Products */,
+				1692180E3136756DECCE7B62DA8F8765 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		CFF9A62100EEE8A114D0D46E6051C962 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				E25DAD79B67E9A7457CDB631D49C8CBF /* AlotClass.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		867D37B61BDF45300AF384C84292CB18 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B3D3DB12153F56EB7F72A559AF429E47 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9038F0AA3FC891BF3E913694EC23D2B3 /* PencilCool_0.h in Headers */,
+				61D42D9F06E9198A65CDCE89E4113F06 /* PencilCool_1.h in Headers */,
+				97B27917582C125E1836AD7209D48B2E /* PencilCool_2.h in Headers */,
+				2AAF4F8C1269652DA119960D4A507870 /* PencilCool_3.h in Headers */,
+				1709BBAA11BDC65A7C8468A7D48AB57A /* PencilCool_4.h in Headers */,
+				78AE21ED459BAB474F84C27756064DFC /* PencilCool_5.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		370DF84D03F9098CE73C8CEC8C32F251 /* Pods-MoreLoad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 30C7B053B581734B94DC7BC4660F9D11 /* Build configuration list for PBXNativeTarget "Pods-MoreLoad" */;
+			buildPhases = (
+				867D37B61BDF45300AF384C84292CB18 /* Headers */,
+				F0A7418426BC7375F33557D88E6A98E7 /* Sources */,
+				EBFD9D5BCE2FC9EA5F3FA81843A0A805 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF0D3C6273FC77B98FB2D1ED48B56F41 /* PBXTargetDependency */,
+			);
+			name = "Pods-MoreLoad";
+			productName = "Pods-MoreLoad";
+			productReference = 9FD84798DDEC99FCDFD9097819D6D656 /* libPods-MoreLoad.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		49B172E57972307450B4A213337F9C23 /* AlotClass */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 018B80A0B1E0F91653195D155F5EE4FA /* Build configuration list for PBXNativeTarget "AlotClass" */;
+			buildPhases = (
+				B3D3DB12153F56EB7F72A559AF429E47 /* Headers */,
+				71CC3108B3CAD1E1DC78F6FC79653D20 /* Sources */,
+				D49A7213E5A448D7702077E8897EC199 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlotClass;
+			productName = AlotClass;
+			productReference = 631E8C6CA53C0C4AB1AE13B2A5A792BE /* libAlotClass.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = C09D00E0E92FE323866E6A2AA2B5FF05 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				49B172E57972307450B4A213337F9C23 /* AlotClass */,
+				370DF84D03F9098CE73C8CEC8C32F251 /* Pods-MoreLoad */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		71CC3108B3CAD1E1DC78F6FC79653D20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DB8E6092F8DB8C44AC4B10B1276505AC /* AlotClass-dummy.m in Sources */,
+				28E916D6F843A0135F541E677D414B7F /* PencilCool_0.m in Sources */,
+				117C8E55284101BFD64DC986046D80BF /* PencilCool_1.m in Sources */,
+				11A148DEBA2457CAAD4D9F1407A2E6FD /* PencilCool_2.m in Sources */,
+				7E731F78601274D68FD4EE704E8DC555 /* PencilCool_3.m in Sources */,
+				825F6B4643FF2CE892F4064D2400F9B0 /* PencilCool_4.m in Sources */,
+				C1CB11FE391673FD1AC5929545ECADEE /* PencilCool_5.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F0A7418426BC7375F33557D88E6A98E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0FE791BEA36BBA3543F4B782303E437C /* Pods-MoreLoad-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FF0D3C6273FC77B98FB2D1ED48B56F41 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = AlotClass;
+			target = 49B172E57972307450B4A213337F9C23 /* AlotClass */;
+			targetProxy = 619D2ADA591666BF3AC77EA475BCDB1C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		13967C5C8F4B10B3EE4D6C208A0A7BEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		7B40CD926DFAFA630259093FA0875618 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FADDF957495A2665F9F884D37967F315 /* Pods-MoreLoad.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		871B6E28ABA34DAE69824AB9D22D3B7D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		91FCE90FFAECE31C0D15545C0202D6BA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EADACAF62EE5EF89B42F6D37F017360B /* Pods-MoreLoad.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A4DDC339D64EC8DB614CF70C875BE06F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = AlotClass;
+				PRODUCT_NAME = AlotClass;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA1A1A244C57B6922CA7FC647CC87E7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = AlotClass;
+				PRODUCT_NAME = AlotClass;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		018B80A0B1E0F91653195D155F5EE4FA /* Build configuration list for PBXNativeTarget "AlotClass" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA1A1A244C57B6922CA7FC647CC87E7F /* Debug */,
+				A4DDC339D64EC8DB614CF70C875BE06F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		30C7B053B581734B94DC7BC4660F9D11 /* Build configuration list for PBXNativeTarget "Pods-MoreLoad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91FCE90FFAECE31C0D15545C0202D6BA /* Debug */,
+				7B40CD926DFAFA630259093FA0875618 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13967C5C8F4B10B3EE4D6C208A0A7BEB /* Debug */,
+				871B6E28ABA34DAE69824AB9D22D3B7D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

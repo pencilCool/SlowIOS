@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F36D1B1801D54690BF51D06 /* libPods-MoreLoad.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 09238445FF9F4C8BDC1B7E92 /* libPods-MoreLoad.a */; };
 		B3123BF724C72AA2005B201A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B3123BF624C72AA2005B201A /* AppDelegate.m */; };
 		B3123BFA24C72AA2005B201A /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B3123BF924C72AA2005B201A /* SceneDelegate.m */; };
 		B3123BFD24C72AA2005B201A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B3123BFC24C72AA2005B201A /* ViewController.m */; };
@@ -15,9 +16,12 @@
 		B3123C0524C72AA5005B201A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3123C0324C72AA5005B201A /* LaunchScreen.storyboard */; };
 		B3123C0824C72AA5005B201A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B3123C0724C72AA5005B201A /* main.m */; };
 		B3123C1024C759F0005B201A /* MoreOCLoadClass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B3123C0E24C759F0005B201A /* MoreOCLoadClass.cpp */; };
+		B39BADED24CFE113009CF1C4 /* PencilCool.m in Sources */ = {isa = PBXBuildFile; fileRef = B39BADEC24CFE113009CF1C4 /* PencilCool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		09238445FF9F4C8BDC1B7E92 /* libPods-MoreLoad.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MoreLoad.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F4A9E9620DE016ADD0EEADA /* Pods-MoreLoad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MoreLoad.debug.xcconfig"; path = "Target Support Files/Pods-MoreLoad/Pods-MoreLoad.debug.xcconfig"; sourceTree = "<group>"; };
 		B3123BF224C72AA2005B201A /* MoreLoad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoreLoad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3123BF524C72AA2005B201A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B3123BF624C72AA2005B201A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -32,6 +36,9 @@
 		B3123C0724C72AA5005B201A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B3123C0E24C759F0005B201A /* MoreOCLoadClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MoreOCLoadClass.cpp; sourceTree = "<group>"; };
 		B3123C0F24C759F0005B201A /* MoreOCLoadClass.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MoreOCLoadClass.hpp; sourceTree = "<group>"; };
+		B39BADEB24CFE113009CF1C4 /* PencilCool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PencilCool.h; sourceTree = "<group>"; };
+		B39BADEC24CFE113009CF1C4 /* PencilCool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PencilCool.m; sourceTree = "<group>"; };
+		FEC1005F7ACCDE3608AFD461 /* Pods-MoreLoad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MoreLoad.release.xcconfig"; path = "Target Support Files/Pods-MoreLoad/Pods-MoreLoad.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,17 +46,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F36D1B1801D54690BF51D06 /* libPods-MoreLoad.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4C5D14A07FB795CFB464D9D8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				09238445FF9F4C8BDC1B7E92 /* libPods-MoreLoad.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8A40BB07526B83E0866F6C92 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8F4A9E9620DE016ADD0EEADA /* Pods-MoreLoad.debug.xcconfig */,
+				FEC1005F7ACCDE3608AFD461 /* Pods-MoreLoad.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		B3123BE924C72AA1005B201A = {
 			isa = PBXGroup;
 			children = (
 				B3123BF424C72AA2005B201A /* MoreLoad */,
 				B3123BF324C72AA2005B201A /* Products */,
+				8A40BB07526B83E0866F6C92 /* Pods */,
+				4C5D14A07FB795CFB464D9D8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -70,6 +97,8 @@
 				B3123BF924C72AA2005B201A /* SceneDelegate.m */,
 				B3123BFB24C72AA2005B201A /* ViewController.h */,
 				B3123BFC24C72AA2005B201A /* ViewController.m */,
+				B39BADEB24CFE113009CF1C4 /* PencilCool.h */,
+				B39BADEC24CFE113009CF1C4 /* PencilCool.m */,
 				B3123C0E24C759F0005B201A /* MoreOCLoadClass.cpp */,
 				B3123C0F24C759F0005B201A /* MoreOCLoadClass.hpp */,
 				B3123BFE24C72AA2005B201A /* Main.storyboard */,
@@ -88,6 +117,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B3123C0B24C72AA5005B201A /* Build configuration list for PBXNativeTarget "MoreLoad" */;
 			buildPhases = (
+				BFFBE06C3414F49937821B27 /* [CP] Check Pods Manifest.lock */,
 				B3123BEE24C72AA2005B201A /* Sources */,
 				B3123BEF24C72AA2005B201A /* Frameworks */,
 				B3123BF024C72AA2005B201A /* Resources */,
@@ -146,6 +176,31 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		BFFBE06C3414F49937821B27 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MoreLoad-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		B3123BEE24C72AA2005B201A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -156,6 +211,7 @@
 				B3123C0824C72AA5005B201A /* main.m in Sources */,
 				B3123BFA24C72AA2005B201A /* SceneDelegate.m in Sources */,
 				B3123C1024C759F0005B201A /* MoreOCLoadClass.cpp in Sources */,
+				B39BADED24CFE113009CF1C4 /* PencilCool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +349,7 @@
 		};
 		B3123C0C24C72AA5005B201A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F4A9E9620DE016ADD0EEADA /* Pods-MoreLoad.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -309,6 +366,7 @@
 		};
 		B3123C0D24C72AA5005B201A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEC1005F7ACCDE3608AFD461 /* Pods-MoreLoad.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

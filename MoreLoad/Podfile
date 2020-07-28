@@ -1,13 +1,32 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-pre_install do ||
 
+pre_install do |installer|
+  
+  for i in 0..5
+    className = "PencilCool"
+    className = "#{className}_#{i}"
+headFile = "
+#import <Foundation/Foundation.h>
+@interface #{className} : NSObject
+@end
+    "
+implementFile = "
+#import \"#{className}.h\"
+\@implementation #{className}
++ (void)load {
+    NSLog(\@\"%@\",NSStringFromClass(self));
+}
+@end
+    "
+    File.write("AlotClass/Classes/#{className}.h", headFile)
+    File.write("AlotClass/Classes/#{className}.m", implementFile)
+  end
 end
+
+
 target 'MoreLoad' do
-  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
-
-  # Pods for MoreLoad
-
+  pod "AlotClass",:path=>'./AlotClass'
 end
