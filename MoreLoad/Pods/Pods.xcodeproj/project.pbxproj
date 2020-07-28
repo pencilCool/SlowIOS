@@ -8,19 +8,49 @@
 
 /* Begin PBXBuildFile section */
 		0FE791BEA36BBA3543F4B782303E437C /* Pods-MoreLoad-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 167D6216BFE78F4F84A747F38A981286 /* Pods-MoreLoad-dummy.m */; };
-		117C8E55284101BFD64DC986046D80BF /* PencilCool_1.m in Sources */ = {isa = PBXBuildFile; fileRef = AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		11A148DEBA2457CAAD4D9F1407A2E6FD /* PencilCool_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		1709BBAA11BDC65A7C8468A7D48AB57A /* PencilCool_4.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		28E916D6F843A0135F541E677D414B7F /* PencilCool_0.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		2AAF4F8C1269652DA119960D4A507870 /* PencilCool_3.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		61D42D9F06E9198A65CDCE89E4113F06 /* PencilCool_1.h in Headers */ = {isa = PBXBuildFile; fileRef = 17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		78AE21ED459BAB474F84C27756064DFC /* PencilCool_5.h in Headers */ = {isa = PBXBuildFile; fileRef = F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		7E731F78601274D68FD4EE704E8DC555 /* PencilCool_3.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		825F6B4643FF2CE892F4064D2400F9B0 /* PencilCool_4.m in Sources */ = {isa = PBXBuildFile; fileRef = 9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		9038F0AA3FC891BF3E913694EC23D2B3 /* PencilCool_0.h in Headers */ = {isa = PBXBuildFile; fileRef = 8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		97B27917582C125E1836AD7209D48B2E /* PencilCool_2.h in Headers */ = {isa = PBXBuildFile; fileRef = 866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		C1CB11FE391673FD1AC5929545ECADEE /* PencilCool_5.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		DB8E6092F8DB8C44AC4B10B1276505AC /* AlotClass-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */; };
+		179D08AF0FAC116C784747CD4977E87E /* PencilCool_17.m in Sources */ = {isa = PBXBuildFile; fileRef = 481E3147D7F6E8A09BFEB96820A28C25 /* PencilCool_17.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2CD40D6952C340984C7ECDEBA6228420 /* PencilCool_18.h in Headers */ = {isa = PBXBuildFile; fileRef = 82161487F504D4D756583BA50CF4C1BB /* PencilCool_18.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3099F6E9EC79F2BBE1AF385400AB0A9D /* PencilCool_9.m in Sources */ = {isa = PBXBuildFile; fileRef = 7594FB7AD168A459187673BA321A3468 /* PencilCool_9.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		336E8D89ECDFD31647B13F8A557471D0 /* PencilCool_4.m in Sources */ = {isa = PBXBuildFile; fileRef = 389B9DB1A26338E76AB19D6198EFA38C /* PencilCool_4.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		341F9CDC8A25DAAC7EA6E1B042970C60 /* PencilCool_10.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FEF9BCC7F69D8493D47B06562A1D338 /* PencilCool_10.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		38ECE744AFF588FB737DDEAF1064B072 /* PencilCool_15.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AFEBE8AF0E84E8BEEED4CBC08768039 /* PencilCool_15.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		44F94A2DDF43AD65D2767D6774CC822E /* PencilCool_3.m in Sources */ = {isa = PBXBuildFile; fileRef = E8EAA5D5F006A7B27A1F29599D670531 /* PencilCool_3.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		531F1894F60F2FD9251F7070ADCCFD3E /* PencilCool_15.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ABF46E128CC8AB57119E30D7A336EF0 /* PencilCool_15.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		560324F09F021A281002F4DABC4CA7EA /* PencilCool_7.m in Sources */ = {isa = PBXBuildFile; fileRef = 444CE34A2E877E9658C1DE5A677DE406 /* PencilCool_7.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		5C9297DE8BEABE1A68668EA2F378A593 /* PencilCool_8.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AC00B59D0035E09ABA1C2E4B849F08C /* PencilCool_8.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		603227C53F7B69D8EE2854958CC09058 /* PencilCool_1.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CBB1F086E83D6E72527147E687B71BA /* PencilCool_1.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		613249B8B917F465B5E64B24C4D09A95 /* PencilCool_7.h in Headers */ = {isa = PBXBuildFile; fileRef = F9E5C4810DF0DA52D6D01CDFB3DF1089 /* PencilCool_7.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		65ADA6A0DC0999B075240FA25FAC71FB /* PencilCool_20.h in Headers */ = {isa = PBXBuildFile; fileRef = C13F0A0C8058C438FACE70CBCD01108B /* PencilCool_20.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		7181AF10B46C294F73737271490885D0 /* PencilCool_12.m in Sources */ = {isa = PBXBuildFile; fileRef = F753D4D32122709A23AF4708A069FC0A /* PencilCool_12.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		73F04700F680E7D1786ED27B5FF6D727 /* PencilCool_16.m in Sources */ = {isa = PBXBuildFile; fileRef = C0BE2CB6D13645224FC7C87212B6E011 /* PencilCool_16.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		7D096C0AFDC4A2A292CF5B5F86EC7E76 /* PencilCool_14.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A0D9DE48A275176A96819776ACA9ECB /* PencilCool_14.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		7FAA0F6FB67B270752F917D848C85E8B /* PencilCool_6.h in Headers */ = {isa = PBXBuildFile; fileRef = CF481A542E0BDD58868DAF25423A78BD /* PencilCool_6.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		82C898A0914B5F4B2111A1BD76B1FA00 /* PencilCool_8.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FB83EC8E8D8492F40E88B556F1CB463 /* PencilCool_8.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		8634A74D58BA6835B874A01B755EA256 /* PencilCool_5.h in Headers */ = {isa = PBXBuildFile; fileRef = 28160FA735190AF8AD7D2DE636358317 /* PencilCool_5.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		88B5B2AB9213D6FC2D445B30F3011840 /* PencilCool_18.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CB80277EF7C724E7B25B5030DC1465 /* PencilCool_18.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		8AB3BD531543A67E25FF783319EA64AE /* PencilCool_6.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F91489A374B815DA07B784D6D5F3A33 /* PencilCool_6.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		8BA0D150F44353DD64F88F771079405E /* PencilCool_5.m in Sources */ = {isa = PBXBuildFile; fileRef = 065A079B5CC9689B2E84FC86486DBB53 /* PencilCool_5.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		9185AA339CCA318FD5E528CDCA713A3C /* PencilCool_11.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B1272BED9F8B963012C1824B72546E4 /* PencilCool_11.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		932A2174C4A515B53ABFBBE291A09B7B /* PencilCool_16.h in Headers */ = {isa = PBXBuildFile; fileRef = 676855A7AFB58C7C2E7A1A272D8D28B2 /* PencilCool_16.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		989C898178AA70A8BBA26A75FF81598B /* PencilCool_0.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AAE1B3414740D967C72274285AECDAB /* PencilCool_0.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		9CD836EDD583D385AAD8ECFC9E625979 /* PencilCool_1.h in Headers */ = {isa = PBXBuildFile; fileRef = 87B95F889F3B9B9D0050B1D45BE82466 /* PencilCool_1.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A408996F0FD6B291B165F26E92B46EA4 /* PencilCool_9.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AC80C141960377EA2BC406BE058372F /* PencilCool_9.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A603C3718C680B1A62F86EFF75B80670 /* PencilCool_20.m in Sources */ = {isa = PBXBuildFile; fileRef = 35DB6D2697AB38CC62AEC5A653F5124E /* PencilCool_20.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		A6F1F9BBD72966AB4CB408CAB2EA46AB /* PencilCool_19.h in Headers */ = {isa = PBXBuildFile; fileRef = C8433767E65F1CC6C3785BD90300F1CD /* PencilCool_19.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		AE0C24D799338C8EBCD0F2B42A1A0EDF /* PencilCool_0.h in Headers */ = {isa = PBXBuildFile; fileRef = AFDAB46E1397FE8479795529D531E4A1 /* PencilCool_0.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B0CCFB4522BCC49145E4CCFB84D8B2A8 /* PencilCool_17.h in Headers */ = {isa = PBXBuildFile; fileRef = FD3649DB68B9148BA564266C82F5DB13 /* PencilCool_17.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B81D8EFAC92130F7C0F7473699917C18 /* PencilCool_13.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BF29B74C618BCDAA9928DC1BEE3F814 /* PencilCool_13.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B97545A3A449AFB27B555D659F96B778 /* PencilCool_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 64AF7DC9D6E884A772938531BABADEB7 /* PencilCool_2.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		C2E4D899B19F8D09B0C43D8103E4905A /* PencilCool_19.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C8F8538642CA4BFA9AFA683E7169046 /* PencilCool_19.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		C3C1F5B51739DA7F2FCFAABEC889BA0E /* PencilCool_2.h in Headers */ = {isa = PBXBuildFile; fileRef = 91B74037DB5D2BA46E6D38DFD5746B92 /* PencilCool_2.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C50C106436FE07D803FE7DAF705FB467 /* PencilCool_14.m in Sources */ = {isa = PBXBuildFile; fileRef = F6EAF3054D5B41A1C22FFC827290FC4E /* PencilCool_14.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		CF409C7F0045CD81C730A4B484222188 /* AlotClass-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D8E2D4332AFD311A84509CC772F2D55 /* AlotClass-dummy.m */; };
+		D0E35FC3AB8C9257296882DCED1FB073 /* PencilCool_12.h in Headers */ = {isa = PBXBuildFile; fileRef = 6958B83373403C8D326590333A877ABC /* PencilCool_12.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DEA79EB51E0BF03D31AFE703B582307C /* PencilCool_10.h in Headers */ = {isa = PBXBuildFile; fileRef = 70D2030417A3455645484E8CE5D7CAC7 /* PencilCool_10.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DEDA4C7F5498A7E2BA06A818A6765DDA /* PencilCool_3.h in Headers */ = {isa = PBXBuildFile; fileRef = B0F530F07F59169F0E0E7DA04F2C2C42 /* PencilCool_3.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		EC9CC43AC33B5197AF45DCAFD5606BB2 /* PencilCool_4.h in Headers */ = {isa = PBXBuildFile; fileRef = 7F049B124012FC19709912CC68987A49 /* PencilCool_4.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		EE04468BCE2A3EA5A9A2FFA50225EADD /* PencilCool_13.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F451C0F5D4524597262668982280BF /* PencilCool_13.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		F450DEF5685BA4C3F4775CF196B9866F /* PencilCool_11.m in Sources */ = {isa = PBXBuildFile; fileRef = 89A725A7DA6B73C80F54485F7CC15C61 /* PencilCool_11.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,35 +64,65 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_4.h; path = Classes/PencilCool_4.h; sourceTree = "<group>"; };
+		065A079B5CC9689B2E84FC86486DBB53 /* PencilCool_5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_5.m; path = Classes/PencilCool_5.m; sourceTree = "<group>"; };
+		0ABF46E128CC8AB57119E30D7A336EF0 /* PencilCool_15.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_15.m; path = Classes/PencilCool_15.m; sourceTree = "<group>"; };
+		0C8F8538642CA4BFA9AFA683E7169046 /* PencilCool_19.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_19.m; path = Classes/PencilCool_19.m; sourceTree = "<group>"; };
 		167D6216BFE78F4F84A747F38A981286 /* Pods-MoreLoad-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MoreLoad-dummy.m"; sourceTree = "<group>"; };
-		17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_1.h; path = Classes/PencilCool_1.h; sourceTree = "<group>"; };
-		2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_5.m; path = Classes/PencilCool_5.m; sourceTree = "<group>"; };
+		1A0D9DE48A275176A96819776ACA9ECB /* PencilCool_14.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_14.h; path = Classes/PencilCool_14.h; sourceTree = "<group>"; };
+		1BF29B74C618BCDAA9928DC1BEE3F814 /* PencilCool_13.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_13.h; path = Classes/PencilCool_13.h; sourceTree = "<group>"; };
+		22D63DD462AC72309EBFE9292501B49A /* AlotClass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.release.xcconfig; sourceTree = "<group>"; };
+		28160FA735190AF8AD7D2DE636358317 /* PencilCool_5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_5.h; path = Classes/PencilCool_5.h; sourceTree = "<group>"; };
+		2AC00B59D0035E09ABA1C2E4B849F08C /* PencilCool_8.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_8.h; path = Classes/PencilCool_8.h; sourceTree = "<group>"; };
+		2D8E2D4332AFD311A84509CC772F2D55 /* AlotClass-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AlotClass-dummy.m"; sourceTree = "<group>"; };
 		33F65B5CE2438CE0D85F3905A365DAAE /* Pods-MoreLoad-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MoreLoad-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_3.m; path = Classes/PencilCool_3.m; sourceTree = "<group>"; };
-		534B266B7007C3446C8795150724F2E5 /* AlotClass-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AlotClass-prefix.pch"; sourceTree = "<group>"; };
-		5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.release.xcconfig; sourceTree = "<group>"; };
+		35DB6D2697AB38CC62AEC5A653F5124E /* PencilCool_20.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_20.m; path = Classes/PencilCool_20.m; sourceTree = "<group>"; };
+		389B9DB1A26338E76AB19D6198EFA38C /* PencilCool_4.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_4.m; path = Classes/PencilCool_4.m; sourceTree = "<group>"; };
+		3AC80C141960377EA2BC406BE058372F /* PencilCool_9.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_9.h; path = Classes/PencilCool_9.h; sourceTree = "<group>"; };
+		3AFEBE8AF0E84E8BEEED4CBC08768039 /* PencilCool_15.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_15.h; path = Classes/PencilCool_15.h; sourceTree = "<group>"; };
+		444CE34A2E877E9658C1DE5A677DE406 /* PencilCool_7.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_7.m; path = Classes/PencilCool_7.m; sourceTree = "<group>"; };
+		481E3147D7F6E8A09BFEB96820A28C25 /* PencilCool_17.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_17.m; path = Classes/PencilCool_17.m; sourceTree = "<group>"; };
+		4F64868EF96E722A08DF8E4324007280 /* AlotClass.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.debug.xcconfig; sourceTree = "<group>"; };
+		52CB80277EF7C724E7B25B5030DC1465 /* PencilCool_18.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_18.m; path = Classes/PencilCool_18.m; sourceTree = "<group>"; };
 		631E8C6CA53C0C4AB1AE13B2A5A792BE /* libAlotClass.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libAlotClass.a; path = libAlotClass.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		64AF7DC9D6E884A772938531BABADEB7 /* PencilCool_2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_2.m; path = Classes/PencilCool_2.m; sourceTree = "<group>"; };
+		676855A7AFB58C7C2E7A1A272D8D28B2 /* PencilCool_16.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_16.h; path = Classes/PencilCool_16.h; sourceTree = "<group>"; };
+		6958B83373403C8D326590333A877ABC /* PencilCool_12.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_12.h; path = Classes/PencilCool_12.h; sourceTree = "<group>"; };
 		69CD99C84D3871F92E9151B7102825BE /* Pods-MoreLoad-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MoreLoad-acknowledgements.plist"; sourceTree = "<group>"; };
-		8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_2.m; path = Classes/PencilCool_2.m; sourceTree = "<group>"; };
-		866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_2.h; path = Classes/PencilCool_2.h; sourceTree = "<group>"; };
-		8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_0.h; path = Classes/PencilCool_0.h; sourceTree = "<group>"; };
-		9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_4.m; path = Classes/PencilCool_4.m; sourceTree = "<group>"; };
-		9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_0.m; path = Classes/PencilCool_0.m; sourceTree = "<group>"; };
+		6AAE1B3414740D967C72274285AECDAB /* PencilCool_0.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_0.m; path = Classes/PencilCool_0.m; sourceTree = "<group>"; };
+		70D2030417A3455645484E8CE5D7CAC7 /* PencilCool_10.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_10.h; path = Classes/PencilCool_10.h; sourceTree = "<group>"; };
+		7594FB7AD168A459187673BA321A3468 /* PencilCool_9.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_9.m; path = Classes/PencilCool_9.m; sourceTree = "<group>"; };
+		7F049B124012FC19709912CC68987A49 /* PencilCool_4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_4.h; path = Classes/PencilCool_4.h; sourceTree = "<group>"; };
+		7FEF9BCC7F69D8493D47B06562A1D338 /* PencilCool_10.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_10.m; path = Classes/PencilCool_10.m; sourceTree = "<group>"; };
+		82161487F504D4D756583BA50CF4C1BB /* PencilCool_18.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_18.h; path = Classes/PencilCool_18.h; sourceTree = "<group>"; };
+		87B95F889F3B9B9D0050B1D45BE82466 /* PencilCool_1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_1.h; path = Classes/PencilCool_1.h; sourceTree = "<group>"; };
+		89A725A7DA6B73C80F54485F7CC15C61 /* PencilCool_11.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_11.m; path = Classes/PencilCool_11.m; sourceTree = "<group>"; };
+		8A319265AF5D019705361DE6E2F0F710 /* AlotClass-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AlotClass-prefix.pch"; sourceTree = "<group>"; };
+		8B1272BED9F8B963012C1824B72546E4 /* PencilCool_11.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_11.h; path = Classes/PencilCool_11.h; sourceTree = "<group>"; };
+		91B74037DB5D2BA46E6D38DFD5746B92 /* PencilCool_2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_2.h; path = Classes/PencilCool_2.h; sourceTree = "<group>"; };
+		9CBB1F086E83D6E72527147E687B71BA /* PencilCool_1.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_1.m; path = Classes/PencilCool_1.m; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F91489A374B815DA07B784D6D5F3A33 /* PencilCool_6.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_6.m; path = Classes/PencilCool_6.m; sourceTree = "<group>"; };
+		9FB83EC8E8D8492F40E88B556F1CB463 /* PencilCool_8.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_8.m; path = Classes/PencilCool_8.m; sourceTree = "<group>"; };
 		9FD84798DDEC99FCDFD9097819D6D656 /* libPods-MoreLoad.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MoreLoad.a"; path = "libPods-MoreLoad.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_3.h; path = Classes/PencilCool_3.h; sourceTree = "<group>"; };
-		AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_1.m; path = Classes/PencilCool_1.m; sourceTree = "<group>"; };
-		B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlotClass.debug.xcconfig; sourceTree = "<group>"; };
-		E25DAD79B67E9A7457CDB631D49C8CBF /* AlotClass.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = AlotClass.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AlotClass-dummy.m"; sourceTree = "<group>"; };
+		AFDAB46E1397FE8479795529D531E4A1 /* PencilCool_0.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_0.h; path = Classes/PencilCool_0.h; sourceTree = "<group>"; };
+		B0F530F07F59169F0E0E7DA04F2C2C42 /* PencilCool_3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_3.h; path = Classes/PencilCool_3.h; sourceTree = "<group>"; };
+		B4F451C0F5D4524597262668982280BF /* PencilCool_13.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_13.m; path = Classes/PencilCool_13.m; sourceTree = "<group>"; };
+		C0BE2CB6D13645224FC7C87212B6E011 /* PencilCool_16.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_16.m; path = Classes/PencilCool_16.m; sourceTree = "<group>"; };
+		C13F0A0C8058C438FACE70CBCD01108B /* PencilCool_20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_20.h; path = Classes/PencilCool_20.h; sourceTree = "<group>"; };
+		C4890B1F23C0F5E9CDC6290F5D7D8CD4 /* AlotClass.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = AlotClass.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C8433767E65F1CC6C3785BD90300F1CD /* PencilCool_19.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_19.h; path = Classes/PencilCool_19.h; sourceTree = "<group>"; };
+		CF481A542E0BDD58868DAF25423A78BD /* PencilCool_6.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_6.h; path = Classes/PencilCool_6.h; sourceTree = "<group>"; };
+		E8EAA5D5F006A7B27A1F29599D670531 /* PencilCool_3.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_3.m; path = Classes/PencilCool_3.m; sourceTree = "<group>"; };
 		EADACAF62EE5EF89B42F6D37F017360B /* Pods-MoreLoad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MoreLoad.debug.xcconfig"; sourceTree = "<group>"; };
-		F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_5.h; path = Classes/PencilCool_5.h; sourceTree = "<group>"; };
+		F6EAF3054D5B41A1C22FFC827290FC4E /* PencilCool_14.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_14.m; path = Classes/PencilCool_14.m; sourceTree = "<group>"; };
+		F753D4D32122709A23AF4708A069FC0A /* PencilCool_12.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PencilCool_12.m; path = Classes/PencilCool_12.m; sourceTree = "<group>"; };
+		F9E5C4810DF0DA52D6D01CDFB3DF1089 /* PencilCool_7.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_7.h; path = Classes/PencilCool_7.h; sourceTree = "<group>"; };
 		FADDF957495A2665F9F884D37967F315 /* Pods-MoreLoad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MoreLoad.release.xcconfig"; sourceTree = "<group>"; };
+		FD3649DB68B9148BA564266C82F5DB13 /* PencilCool_17.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PencilCool_17.h; path = Classes/PencilCool_17.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D49A7213E5A448D7702077E8897EC199 /* Frameworks */ = {
+		7407A0EC600E6FF0D504CE6FCBBD4840 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -92,28 +152,6 @@
 			path = "Target Support Files/Pods-MoreLoad";
 			sourceTree = "<group>";
 		};
-		099C459671FC8D3FAAB625B15CD1882E /* AlotClass */ = {
-			isa = PBXGroup;
-			children = (
-				8983ECB025BE94AC049FA9054F432F32 /* PencilCool_0.h */,
-				9BA417053DF023F8FA01EBC477D720DB /* PencilCool_0.m */,
-				17A9A5F1B7EBBC133BB71AA2B3883F78 /* PencilCool_1.h */,
-				AF8B939E2C9E38CCA4A2422383A0EA1B /* PencilCool_1.m */,
-				866CB6935DE2AEB63BF9DB6B025D2EB8 /* PencilCool_2.h */,
-				8556E96E30986A91726EA4AAD5D9979A /* PencilCool_2.m */,
-				AE9B8A73319594473BDD2BB538C21356 /* PencilCool_3.h */,
-				4E723411862478F89023F8359D3FBBD3 /* PencilCool_3.m */,
-				0E3D4472560614DB7AF179136FB7521F /* PencilCool_4.h */,
-				9644844C54CA41E1AE5BCC63B1B6944A /* PencilCool_4.m */,
-				F12F49B38A6544CF2D8E1B3B614A12A2 /* PencilCool_5.h */,
-				2E9CF38548DB6186DA2881CF17025FB7 /* PencilCool_5.m */,
-				CFF9A62100EEE8A114D0D46E6051C962 /* Pod */,
-				A3416ECD478EBD6EFFFDCA283C5C2031 /* Support Files */,
-			);
-			name = AlotClass;
-			path = ../AlotClass;
-			sourceTree = "<group>";
-		};
 		1692180E3136756DECCE7B62DA8F8765 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,24 +160,68 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		A3416ECD478EBD6EFFFDCA283C5C2031 /* Support Files */ = {
+		62834BDA31E50D1C1E8A76BA966FF0B2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				E7247A1D743544EAAFBEE09B9CEA8C02 /* AlotClass-dummy.m */,
-				534B266B7007C3446C8795150724F2E5 /* AlotClass-prefix.pch */,
-				B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */,
-				5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */,
+				2D8E2D4332AFD311A84509CC772F2D55 /* AlotClass-dummy.m */,
+				8A319265AF5D019705361DE6E2F0F710 /* AlotClass-prefix.pch */,
+				4F64868EF96E722A08DF8E4324007280 /* AlotClass.debug.xcconfig */,
+				22D63DD462AC72309EBFE9292501B49A /* AlotClass.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Pods/Target Support Files/AlotClass";
 			sourceTree = "<group>";
 		};
-		B0A7983B185433BBEB02EC9FEF7994C7 /* Development Pods */ = {
+		981F020234F4494FD889A5014F4B184D /* AlotClass */ = {
 			isa = PBXGroup;
 			children = (
-				099C459671FC8D3FAAB625B15CD1882E /* AlotClass */,
+				AFDAB46E1397FE8479795529D531E4A1 /* PencilCool_0.h */,
+				6AAE1B3414740D967C72274285AECDAB /* PencilCool_0.m */,
+				87B95F889F3B9B9D0050B1D45BE82466 /* PencilCool_1.h */,
+				9CBB1F086E83D6E72527147E687B71BA /* PencilCool_1.m */,
+				70D2030417A3455645484E8CE5D7CAC7 /* PencilCool_10.h */,
+				7FEF9BCC7F69D8493D47B06562A1D338 /* PencilCool_10.m */,
+				8B1272BED9F8B963012C1824B72546E4 /* PencilCool_11.h */,
+				89A725A7DA6B73C80F54485F7CC15C61 /* PencilCool_11.m */,
+				6958B83373403C8D326590333A877ABC /* PencilCool_12.h */,
+				F753D4D32122709A23AF4708A069FC0A /* PencilCool_12.m */,
+				1BF29B74C618BCDAA9928DC1BEE3F814 /* PencilCool_13.h */,
+				B4F451C0F5D4524597262668982280BF /* PencilCool_13.m */,
+				1A0D9DE48A275176A96819776ACA9ECB /* PencilCool_14.h */,
+				F6EAF3054D5B41A1C22FFC827290FC4E /* PencilCool_14.m */,
+				3AFEBE8AF0E84E8BEEED4CBC08768039 /* PencilCool_15.h */,
+				0ABF46E128CC8AB57119E30D7A336EF0 /* PencilCool_15.m */,
+				676855A7AFB58C7C2E7A1A272D8D28B2 /* PencilCool_16.h */,
+				C0BE2CB6D13645224FC7C87212B6E011 /* PencilCool_16.m */,
+				FD3649DB68B9148BA564266C82F5DB13 /* PencilCool_17.h */,
+				481E3147D7F6E8A09BFEB96820A28C25 /* PencilCool_17.m */,
+				82161487F504D4D756583BA50CF4C1BB /* PencilCool_18.h */,
+				52CB80277EF7C724E7B25B5030DC1465 /* PencilCool_18.m */,
+				C8433767E65F1CC6C3785BD90300F1CD /* PencilCool_19.h */,
+				0C8F8538642CA4BFA9AFA683E7169046 /* PencilCool_19.m */,
+				91B74037DB5D2BA46E6D38DFD5746B92 /* PencilCool_2.h */,
+				64AF7DC9D6E884A772938531BABADEB7 /* PencilCool_2.m */,
+				C13F0A0C8058C438FACE70CBCD01108B /* PencilCool_20.h */,
+				35DB6D2697AB38CC62AEC5A653F5124E /* PencilCool_20.m */,
+				B0F530F07F59169F0E0E7DA04F2C2C42 /* PencilCool_3.h */,
+				E8EAA5D5F006A7B27A1F29599D670531 /* PencilCool_3.m */,
+				7F049B124012FC19709912CC68987A49 /* PencilCool_4.h */,
+				389B9DB1A26338E76AB19D6198EFA38C /* PencilCool_4.m */,
+				28160FA735190AF8AD7D2DE636358317 /* PencilCool_5.h */,
+				065A079B5CC9689B2E84FC86486DBB53 /* PencilCool_5.m */,
+				CF481A542E0BDD58868DAF25423A78BD /* PencilCool_6.h */,
+				9F91489A374B815DA07B784D6D5F3A33 /* PencilCool_6.m */,
+				F9E5C4810DF0DA52D6D01CDFB3DF1089 /* PencilCool_7.h */,
+				444CE34A2E877E9658C1DE5A677DE406 /* PencilCool_7.m */,
+				2AC00B59D0035E09ABA1C2E4B849F08C /* PencilCool_8.h */,
+				9FB83EC8E8D8492F40E88B556F1CB463 /* PencilCool_8.m */,
+				3AC80C141960377EA2BC406BE058372F /* PencilCool_9.h */,
+				7594FB7AD168A459187673BA321A3468 /* PencilCool_9.m */,
+				C57F2333F06A091CD321E1798E2E906E /* Pod */,
+				62834BDA31E50D1C1E8A76BA966FF0B2 /* Support Files */,
 			);
-			name = "Development Pods";
+			name = AlotClass;
+			path = ../AlotClass;
 			sourceTree = "<group>";
 		};
 		C09D00E0E92FE323866E6A2AA2B5FF05 /* Products */ = {
@@ -151,23 +233,31 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		C47A61D36BF23A916FA9CD32E2C56CE1 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				981F020234F4494FD889A5014F4B184D /* AlotClass */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		C57F2333F06A091CD321E1798E2E906E /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				C4890B1F23C0F5E9CDC6290F5D7D8CD4 /* AlotClass.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				B0A7983B185433BBEB02EC9FEF7994C7 /* Development Pods */,
+				C47A61D36BF23A916FA9CD32E2C56CE1 /* Development Pods */,
 				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
 				C09D00E0E92FE323866E6A2AA2B5FF05 /* Products */,
 				1692180E3136756DECCE7B62DA8F8765 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		CFF9A62100EEE8A114D0D46E6051C962 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E25DAD79B67E9A7457CDB631D49C8CBF /* AlotClass.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
@@ -187,16 +277,31 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B3D3DB12153F56EB7F72A559AF429E47 /* Headers */ = {
+		B7748560CA39561B0AB0471165B8806D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9038F0AA3FC891BF3E913694EC23D2B3 /* PencilCool_0.h in Headers */,
-				61D42D9F06E9198A65CDCE89E4113F06 /* PencilCool_1.h in Headers */,
-				97B27917582C125E1836AD7209D48B2E /* PencilCool_2.h in Headers */,
-				2AAF4F8C1269652DA119960D4A507870 /* PencilCool_3.h in Headers */,
-				1709BBAA11BDC65A7C8468A7D48AB57A /* PencilCool_4.h in Headers */,
-				78AE21ED459BAB474F84C27756064DFC /* PencilCool_5.h in Headers */,
+				AE0C24D799338C8EBCD0F2B42A1A0EDF /* PencilCool_0.h in Headers */,
+				9CD836EDD583D385AAD8ECFC9E625979 /* PencilCool_1.h in Headers */,
+				DEA79EB51E0BF03D31AFE703B582307C /* PencilCool_10.h in Headers */,
+				9185AA339CCA318FD5E528CDCA713A3C /* PencilCool_11.h in Headers */,
+				D0E35FC3AB8C9257296882DCED1FB073 /* PencilCool_12.h in Headers */,
+				B81D8EFAC92130F7C0F7473699917C18 /* PencilCool_13.h in Headers */,
+				7D096C0AFDC4A2A292CF5B5F86EC7E76 /* PencilCool_14.h in Headers */,
+				38ECE744AFF588FB737DDEAF1064B072 /* PencilCool_15.h in Headers */,
+				932A2174C4A515B53ABFBBE291A09B7B /* PencilCool_16.h in Headers */,
+				B0CCFB4522BCC49145E4CCFB84D8B2A8 /* PencilCool_17.h in Headers */,
+				2CD40D6952C340984C7ECDEBA6228420 /* PencilCool_18.h in Headers */,
+				A6F1F9BBD72966AB4CB408CAB2EA46AB /* PencilCool_19.h in Headers */,
+				C3C1F5B51739DA7F2FCFAABEC889BA0E /* PencilCool_2.h in Headers */,
+				65ADA6A0DC0999B075240FA25FAC71FB /* PencilCool_20.h in Headers */,
+				DEDA4C7F5498A7E2BA06A818A6765DDA /* PencilCool_3.h in Headers */,
+				EC9CC43AC33B5197AF45DCAFD5606BB2 /* PencilCool_4.h in Headers */,
+				8634A74D58BA6835B874A01B755EA256 /* PencilCool_5.h in Headers */,
+				7FAA0F6FB67B270752F917D848C85E8B /* PencilCool_6.h in Headers */,
+				613249B8B917F465B5E64B24C4D09A95 /* PencilCool_7.h in Headers */,
+				5C9297DE8BEABE1A68668EA2F378A593 /* PencilCool_8.h in Headers */,
+				A408996F0FD6B291B165F26E92B46EA4 /* PencilCool_9.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,11 +328,11 @@
 		};
 		49B172E57972307450B4A213337F9C23 /* AlotClass */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 018B80A0B1E0F91653195D155F5EE4FA /* Build configuration list for PBXNativeTarget "AlotClass" */;
+			buildConfigurationList = 0A166F4A555E8E639BE671B4023C4953 /* Build configuration list for PBXNativeTarget "AlotClass" */;
 			buildPhases = (
-				B3D3DB12153F56EB7F72A559AF429E47 /* Headers */,
-				71CC3108B3CAD1E1DC78F6FC79653D20 /* Sources */,
-				D49A7213E5A448D7702077E8897EC199 /* Frameworks */,
+				B7748560CA39561B0AB0471165B8806D /* Headers */,
+				0EF2F87DC54CADCD7E34F032EBFA6176 /* Sources */,
+				7407A0EC600E6FF0D504CE6FCBBD4840 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -267,17 +372,32 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		71CC3108B3CAD1E1DC78F6FC79653D20 /* Sources */ = {
+		0EF2F87DC54CADCD7E34F032EBFA6176 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB8E6092F8DB8C44AC4B10B1276505AC /* AlotClass-dummy.m in Sources */,
-				28E916D6F843A0135F541E677D414B7F /* PencilCool_0.m in Sources */,
-				117C8E55284101BFD64DC986046D80BF /* PencilCool_1.m in Sources */,
-				11A148DEBA2457CAAD4D9F1407A2E6FD /* PencilCool_2.m in Sources */,
-				7E731F78601274D68FD4EE704E8DC555 /* PencilCool_3.m in Sources */,
-				825F6B4643FF2CE892F4064D2400F9B0 /* PencilCool_4.m in Sources */,
-				C1CB11FE391673FD1AC5929545ECADEE /* PencilCool_5.m in Sources */,
+				CF409C7F0045CD81C730A4B484222188 /* AlotClass-dummy.m in Sources */,
+				989C898178AA70A8BBA26A75FF81598B /* PencilCool_0.m in Sources */,
+				603227C53F7B69D8EE2854958CC09058 /* PencilCool_1.m in Sources */,
+				341F9CDC8A25DAAC7EA6E1B042970C60 /* PencilCool_10.m in Sources */,
+				F450DEF5685BA4C3F4775CF196B9866F /* PencilCool_11.m in Sources */,
+				7181AF10B46C294F73737271490885D0 /* PencilCool_12.m in Sources */,
+				EE04468BCE2A3EA5A9A2FFA50225EADD /* PencilCool_13.m in Sources */,
+				C50C106436FE07D803FE7DAF705FB467 /* PencilCool_14.m in Sources */,
+				531F1894F60F2FD9251F7070ADCCFD3E /* PencilCool_15.m in Sources */,
+				73F04700F680E7D1786ED27B5FF6D727 /* PencilCool_16.m in Sources */,
+				179D08AF0FAC116C784747CD4977E87E /* PencilCool_17.m in Sources */,
+				88B5B2AB9213D6FC2D445B30F3011840 /* PencilCool_18.m in Sources */,
+				C2E4D899B19F8D09B0C43D8103E4905A /* PencilCool_19.m in Sources */,
+				B97545A3A449AFB27B555D659F96B778 /* PencilCool_2.m in Sources */,
+				A603C3718C680B1A62F86EFF75B80670 /* PencilCool_20.m in Sources */,
+				44F94A2DDF43AD65D2767D6774CC822E /* PencilCool_3.m in Sources */,
+				336E8D89ECDFD31647B13F8A557471D0 /* PencilCool_4.m in Sources */,
+				8BA0D150F44353DD64F88F771079405E /* PencilCool_5.m in Sources */,
+				8AB3BD531543A67E25FF783319EA64AE /* PencilCool_6.m in Sources */,
+				560324F09F021A281002F4DABC4CA7EA /* PencilCool_7.m in Sources */,
+				82C898A0914B5F4B2111A1BD76B1FA00 /* PencilCool_8.m in Sources */,
+				3099F6E9EC79F2BBE1AF385400AB0A9D /* PencilCool_9.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,6 +482,55 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		5ACA978394E709F5BF09C75E372A25AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 22D63DD462AC72309EBFE9292501B49A /* AlotClass.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = AlotClass;
+				PRODUCT_NAME = AlotClass;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6BB1DA2EA6F0FC8A1040193FE6DAB29B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F64868EF96E722A08DF8E4324007280 /* AlotClass.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = AlotClass;
+				PRODUCT_NAME = AlotClass;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -470,63 +639,14 @@
 			};
 			name = Debug;
 		};
-		A4DDC339D64EC8DB614CF70C875BE06F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5835C99F140E622F6DEDFCBF909454CA /* AlotClass.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = AlotClass;
-				PRODUCT_NAME = AlotClass;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		AA1A1A244C57B6922CA7FC647CC87E7F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B84375F9156352A26356B1D7575ECA70 /* AlotClass.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/AlotClass/AlotClass-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = AlotClass;
-				PRODUCT_NAME = AlotClass;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		018B80A0B1E0F91653195D155F5EE4FA /* Build configuration list for PBXNativeTarget "AlotClass" */ = {
+		0A166F4A555E8E639BE671B4023C4953 /* Build configuration list for PBXNativeTarget "AlotClass" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AA1A1A244C57B6922CA7FC647CC87E7F /* Debug */,
-				A4DDC339D64EC8DB614CF70C875BE06F /* Release */,
+				6BB1DA2EA6F0FC8A1040193FE6DAB29B /* Debug */,
+				5ACA978394E709F5BF09C75E372A25AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

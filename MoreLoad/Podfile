@@ -3,8 +3,8 @@
 
 
 pre_install do |installer|
-  
-  for i in 0..5
+  FileUtils.rm_rf("AlotClass/Classes/.", secure: true) 
+  for i in 0..20
     className = "PencilCool"
     className = "#{className}_#{i}"
 headFile = "
